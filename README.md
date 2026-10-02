@@ -1,1 +1,5 @@
-100% cuz orang jawa jangan sampai ilang java nya
+# LeetCode Solutions
+
+> *"100% java cuz orang jawa jangan sampai ilang java nya"*
+
+---
